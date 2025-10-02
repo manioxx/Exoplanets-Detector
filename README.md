@@ -36,9 +36,9 @@ Interactive **Streamlit app** makes exploration & predictions fun and easy. 🌌
 ## **⚡ Quick Start**
 
 1. **Clone repo:**
-```bash
-git clone https://github.com/<your-username>/exoplanet-detector.git
-cd exoplanet-detector
+```bash[
+git clone https://github.com/manioxx/Exoplanets-Detector
+cd Exoplanets-Detector
 ```
 
 2. **Install dependencies:**
