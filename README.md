@@ -84,17 +84,15 @@ exoplanet-detector/
 
 ## **🎬 Demo / Screenshots**
 
-1. **App Home:**  
+1. **Generating pkl files:**  
 ![Streamlit Home](screenshots/home.png)  
 
 2. **Prediction Example:**  
 ![Prediction Example](screenshots/prediction.png)  
 
-3. **Feature Importance:**  
-![Feature Importance](screenshots/feature_importance.png)  
+3. **Viewing Dataset**  
+![Feature Importance](screenshots/dataset.png)  
 
-4. **Optional GIF Demo:**  
-![Exoplanet Detector GIF](screenshots/demo.gif)
 
 ---
 
